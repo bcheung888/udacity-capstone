@@ -12,8 +12,15 @@ The purpose of this project was to analyse data generated from smartphone sensor
 ## Files
 
 This repository contains the following:
-(insert)
-
+- data
+    - README.txt -> readme accompanying UCI HAR dataset
+    - train.zip -> zip file containing training data
+    - test.zip -> zip file containing test data
+    - activity_labels.txt
+    - features.txt
+    - features_info.txt
+- (insert jupyter notebook file)
+    
 ## Summary
 
 The following 3 models were attemped and each resulted in accuracy scores of >90%:
