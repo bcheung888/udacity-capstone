@@ -23,7 +23,7 @@ This repository contains the following:
     
 ## Summary
 
-The following 3 models were attemped and each resulted in accuracy scores of >90%:
+The following 3 models were attempted and each resulted in accuracy scores of >90%:
 - K-nearest Neighbours
 - Random Forest
 - Support Vector Machine
