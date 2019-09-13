@@ -12,6 +12,8 @@ The purpose of this project was to analyse data generated from smartphone sensor
 ## Files
 
 This repository contains the following:
+
+- Human Activity Recognition.ipynb
 - data
     - README.txt -> readme accompanying UCI HAR dataset
     - train.zip -> zip file containing training data
@@ -19,7 +21,7 @@ This repository contains the following:
     - activity_labels.txt
     - features.txt
     - features_info.txt
-- (insert jupyter notebook file)
+
     
 ## Summary
 
